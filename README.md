@@ -2,7 +2,7 @@
 
   <img src="https://github.com/TgSmmServices/Apex-Reporter/blob/main/ApexReporter.PNG" />
 
-  Apex Adder is a python script that can help you to report any telegram channel or group with using all your telegram accounts. You only need to add your accounts in the script and start using it.
+  Apex Reporter is a python script that can help you to report any telegram channel or group with using all your telegram accounts. You only need to add your accounts in the script and start using it.
 
 For Any Query Please Contact Us Through Following Ways ~~ 
 
@@ -13,7 +13,7 @@ For Any Query Please Contact Us Through Following Ways ~~
 
 ### Video Tutorial ~~
 
-https://www.youtube.com/watch?v=Qwt833tC6Bw
+https://www.youtube.com/watch?v=UDhLb074K9A
 
 # Update Features
 
